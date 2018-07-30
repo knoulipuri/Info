@@ -15,8 +15,8 @@
  git add .(its dot) -\>to add these changed files to the activity
 9. git commit -m "Commit message"
   -> Commit changes to head (but not yet to the remote repository).It will show us the changed file count, this means the changed files are checked-in.
-  if uesr wants to deliver or move these changed files from local branch to specified branch then user should swith to specified           branch first then merge with local branch changes.  
-10. git checkout <specifiedbranchname> -\>means to move to specified branch
+  if uesr wants to deliver or move these changed files from local branch to specified branch then user should switch to specified           branch first then merge with local branch changes.  
+10. git checkout \<specifiedbranchname\> -\>means to move to specified branch
 11. git merge \<localbranchname\> -\>to merge the specified branch with local branch changes.
   To merge a different branch into your active branch
 12. git push -\>to push the changes to specified branch and after push only, we can see those changes in GITHub specified branch repository.
