@@ -1,6 +1,6 @@
 # Github console commands
-1)git clone <url form github>
-2)cd <ur project folder>
+1. git clone <url form github>
+2. cd <ur project folder>
 3)It will be in master branch, then give "git checkout <specifiedbranchname>" and hit enter, it swithes to specified branch.
 4)git checkout -b <localbranchname>->switches to newly created local branch
 5)Make any changes in files in your local branch
