@@ -14,7 +14,7 @@
    (or) <br />
  git add .(its dot) -\>to add these changed files to the activity
 9. git commit -m "Commit message"
-  ->will show us the changed file count, this means the changed files arw checked-in.
+  ->will show us the changed file count, this means the changed files are checked-in.
   if uesr wants to deliver or move these changed files from local branch to specified branch then user should swith to specified           branch first then merge with local branch changes.
   Commit changes to head (but not yet to the remote repository)
 10. git checkout <specifiedbranchname> -\>means to move to specified branch
