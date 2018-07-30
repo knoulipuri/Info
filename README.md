@@ -9,7 +9,7 @@
   (or) <br />
  git diff --base \<filename\> -\>View the conflicts against the base file
   (or) <br />
- diff <sourcebranch> \<targetbranch\> -\>Preview the changes, before merging
+ diff \<sourcebranch\> \<targetbranch\> -\>Preview the changes, before merging
 8. git add <filename>-\>After you have manually resolved any conflicts, you mark the changed file
    (or) <br />
  git add .(its dot) -\>to add these changed files to the activity
